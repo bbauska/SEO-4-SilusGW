@@ -1,3 +1,17 @@
+|Escape sequences | Character represented |
+|-----------------|-----------------------|
+| \b | Backspace |
+| \f | Form feed |
+| \n | New line |
+| \r | Carriage return |
+| \t | Tab | 
+| \' | Single quote |
+| \" | Double quote |
+| \\ | Backslash |
+| \xNN | NN is a hexadecimal number that identifies a character in the Latin‐1 character set. |
+
+
+
 <h1>SEO 4 Silus Gaming World (SEO-4-SilusGW)</h1>
 <h2>1. Use keyword research to guide your SEO landing pages’ content</h2>
 <p>Keyword research is a critical first step to creating your SEO landing pages. Start by identifying 
