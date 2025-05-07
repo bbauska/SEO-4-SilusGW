@@ -1,3 +1,5 @@
+<h1>SEO 4 Silus Gaming World (SEO-4-SilusGW)</h1>
+
 1. Use keyword research to guide your SEO landing pages’ content
 Keyword research is a critical first step to creating your SEO landing pages. Start by identifying 
 long-tail keywords relevant to your business and products. Not sure what keywords your audience is 
