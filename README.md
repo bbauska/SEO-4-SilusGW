@@ -7,7 +7,7 @@
 | \t | Tab | 
 | \\'  | Single quote |
 | \\"  | Double quote |
-| \\ | Backslash |
+| \\\ | Backslash |
 | \xNN | NN is a hexadecimal number that identifies a character in the Latin‐1 character set. |
 
 <h1>SEO 4 Silus Gaming World (SEO-4-SilusGW)</h1>
