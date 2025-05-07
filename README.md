@@ -5,8 +5,8 @@
 | \n | New line |
 | \r | Carriage return |
 | \t | Tab | 
-| \'  | Single quote |
-| \"  | Double quote |
+| \\'  | Single quote |
+| \\"  | Double quote |
 | \\ | Backslash |
 | \xNN | NN is a hexadecimal number that identifies a character in the Latin‐1 character set. |
 
